@@ -1,0 +1,13 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_68dc096 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FAFBF8;  }
+#container_68dc096_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_3c000d03 { vertical-align: bottom; position:relative; display: inline-block; width:20%; min-width:150px; background:none; height:auto;  }
+#container_7302d56d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:41px; background:none;  }
+#container_7302d56d_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000;  }
