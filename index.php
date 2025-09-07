@@ -1,0 +1,127 @@
+<?php													
+	ini_set('session.use_trans_sid', false);			
+	ini_set('url_rewriter.tags', '');					
+	session_name('rocketcakelogin');					
+	session_start();									
+	if(!isset($_SESSION['user']))						
+	{													
+		$pagename = $_SERVER['REQUEST_URI'];			
+		$_SESSION['targetpage'] = $pagename;			
+		header('Location: login.php');				
+		exit;											
+	}													
+ ?><!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="index_php.css?h=c27a3713">
+</head>
+<body>
+<div class="textstyle1">
+<div id="container_46617e6a"><div id="container_46617e6a_padding" ><div class="textstyle1"><div id="container_4146eb3e"><div id="container_4146eb3e_padding" ><div class="textstyle2"><img src="rc_images/untitled.png" width="1080" height="1080" id="img_798910f0" alt="" title="" /></div>
+<div style="clear:both"></div></div></div><div id="menu_7d1752af"><div  id="menu_7d1752af_menualignmentwrapper" ><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_1fd9e86b"  class="menustyle1 menu_7d1752af_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle3">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="index.php" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_6fab104c"  class="menustyle2 menu_7d1752af_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle4">Home</span>
+		</div>
+	</div>
+</a>
+<a href="pricelist.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_30174d59"  class="menustyle3 menu_7d1752af_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle4">Our Prices</span>
+		</div>
+	</div>
+</a>
+<a href="aftercare.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_4c46cf44"  class="menustyle4 menu_7d1752af_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle4">Aftercare</span>
+		</div>
+	</div>
+</a>
+<a href="imagegallery.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_f645165"  class="menustyle5 menu_7d1752af_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle4">Image Gallery</span>
+		</div>
+	</div>
+</a>
+<a href="reviews.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_4a8d779a"  class="menustyle6 menu_7d1752af_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle4">Reviews</span>
+		</div>
+	</div>
+</a>
+<a href="contactus.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_23932c22"  class="menustyle7 menu_7d1752af_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle4">Contact Us</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_7d1752af= new wsp_menu('menu_7d1752af', 'menu_7d1752af', 10, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 10, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_7d1752af.createMenuForItem('menuentry_1fd9e86b', ["  <span class=\"textstyle5\">Home</span> ", 'index.php', '',
+		                                   "  <span class=\"textstyle5\">Our Prices</span> ", 'pricelist.html', '',
+		                                   "  <span class=\"textstyle5\">Aftercare</span> ", 'aftercare.html', '',
+		                                   "  <span class=\"textstyle5\">Image Gallery</span> ", 'imagegallery.html', '',
+		                                   "  <span class=\"textstyle5\">Reviews</span> ", 'reviews.html', '',
+		                                   "  <span class=\"textstyle5\">Contact Us</span> ", 'contactus.html', '']
+		                                   , true);
+		js_menu_7d1752af.createMenuForItem('menuentry_6fab104c', []);
+		js_menu_7d1752af.createMenuForItem('menuentry_30174d59', []);
+		js_menu_7d1752af.createMenuForItem('menuentry_4c46cf44', []);
+		js_menu_7d1752af.createMenuForItem('menuentry_f645165', []);
+		js_menu_7d1752af.createMenuForItem('menuentry_4a8d779a', []);
+		js_menu_7d1752af.createMenuForItem('menuentry_23932c22', []);
+
+	</script>
+</div></div></div></div>
+<div style="clear:both"></div></div></div><div  id="placeh_797a0fc1" >
+  <div class="textstyle1">
+    </div>
+</div>
+<div id="container_2ba0dbc0"><div id="container_2ba0dbc0_padding" ><div class="textstyle2"><span class="textstyle6">Check out our socials...</span></div>
+<div class="textstyle1"><div id="menu_548ef2b6"><div  id="menu_548ef2b6_menualignmentwrapper" ><div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="&#8801;" >
+	<div id="menuentry_5271cb71"  class="menustyle1 menu_548ef2b6_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+  <span class="textstyle3">&#8801;</span>
+		</div>
+	</div>
+</a>
+<a href="reviews.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_7adb11cf"  class="menustyle8 menu_548ef2b6_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+  <span class="textstyle4">Instagram</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_548ef2b6= new wsp_menu('menu_548ef2b6', 'menu_548ef2b6', 10, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#0A0A0A', menuPaddingUsed: 10, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_548ef2b6.createMenuForItem('menuentry_5271cb71', ["  <span class=\"textstyle5\">Instagram</span> ", 'reviews.html', '']
+		                                   , true);
+		js_menu_548ef2b6.createMenuForItem('menuentry_7adb11cf', []);
+
+	</script>
+</div></div></div></div>
+<div style="clear:both"></div></div></div>  </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle3 { text-align:center; }
+#form_79434e84 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; min-width:270px; background-color:#E5E5E5;  }
+#form_79434e84_padding { margin: 10px; display: block;  }
+#edit_16c06f69 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:250px; height:30px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#edit_3c1a7df6 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:250px; height:30px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_15e95683 { vertical-align: bottom; position:relative; display: inline-block; width:100px; height:30px; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
