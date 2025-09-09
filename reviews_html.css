@@ -1,0 +1,28 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_f7f118f { box-sizing: border-box; vertical-align: top; border-radius: 0px 0px 40px 40px; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FAFAF2; background-image: url(rc_images/gold_leafs_1400x787.png); background-position:center center; background-size:cover; border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #2F2F2F;  }
+#container_f7f118f_padding { margin: 10px; display: block;  }
+#container_3205b59a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_3205b59a_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_33c28df6 { vertical-align: bottom; position:relative; display: inline-block; width:15%; min-width:200px; background:none; height:auto;  }
+#container_7b322585 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:99px; background-color:#FAFAF8; border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #2F2F2F;  }
+#container_7b322585_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:18pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#DDCA97; font-weight:bold;  }
+.textstyle4 { font-size:14pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#000000; font-weight:bold;  }
+#container_518754ee { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:46px; background:none;  }
+#container_518754ee_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:12pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#000000;  }
+#container_35965677 { vertical-align: top; position:relative; display: inline-block; width:100%; background-color:#FAFAF2;  }
+#container_35965677_padding { margin: 10px; display: block;  }
+#iframe_4d42a83f { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:63%; height:1182px; background:none; border: 1px solid #A0A0A0;  }
+#container_12299969 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:54px; background:none;  }
+#container_12299969_padding { margin: 10px; display: block;  }
+#button_2babed2f { box-sizing: border-box; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:417px; height:40px; background-color:#DDCA97; border: 0px solid #404040;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle6 { font-size:12pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#FFFFFF; font-weight:bold;  }

@@ -60,24 +60,19 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .menustyle7 { position:absolute; width:94px; height:38px; left:418px;  }
 .textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
 #placeh_797a0fc1 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:186px;  }
-#container_54323429 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:99px; background-color:#FAFAF8; border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #2F2F2F;  }
-#container_54323429_padding { margin: 10px; display: block;  }
-.textstyle6 { font-size:18pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#DDCA97; font-weight:bold;  }
-.textstyle7 { font-size:14pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#000000; font-weight:bold;  }
-#container_6983ed74 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:46px; background:none;  }
-#container_6983ed74_padding { margin: 10px; display: block;  }
-.textstyle8 { font-size:12pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#000000;  }
-#container_7330b34f { vertical-align: top; position:relative; display: inline-block; width:100%; background-color:#FAFAF2;  }
-#container_7330b34f_padding { margin: 10px; display: block;  }
-#carousel_59a0caff { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:53%; height:578px; min-width:300px; background:none;  }
-#carousel_59a0caff_page1 { position:absolute; left:0px; top:0px; width:100%; height:100%; background:none;  }
-#carousel_59a0caff_page2 { position:absolute; left:0px; top:0px; width:100%; height:100%; background:none;  }
-.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#carousel_59a0caff_page3 { position:absolute; left:0px; top:0px; width:100%; height:100%; background:none;  }
-#carousel_59a0caff_page4 { position:absolute; left:0px; top:0px; width:100%; height:100%; background:none;  }
+#container_6933d5ab { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:86px; background:none;  }
+#container_6933d5ab_padding { margin: 10px; display: block;  }
+.textstyle6 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+.textstyle7 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_5c19d71c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:57px; background:none;  }
+#container_5c19d71c_padding { margin: 10px; display: block;  }
+#button_3bd38d17 { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; width:150px; height:40px; background-color:#E8E8E8; border: 4px solid #FF0000;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
 #container_2ba0dbc0 { box-sizing: border-box; vertical-align: top; border-radius: 40px; position:relative; display: inline-block; width:100%; min-height:150px; background:none; border-top: 1px solid #2F2F2F; border-left: none; border-right: none; border-bottom: none;  }
 #container_2ba0dbc0_padding { margin: 10px; display: block;  }
-.textstyle10 { font-size:12pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#DDCA97; font-weight:bold;  }
+.textstyle9 { font-size:12pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#DDCA97; font-weight:bold;  }
 #menu_548ef2b6 { vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background:none;  }
 #menu_548ef2b6_menualignmentwrapper { position: relative; overflow: visible; height: 100%; }
 .menustyle8 { position:absolute; width:36px; height:38px; left:0px;  }
